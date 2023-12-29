@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188807731125",
+    "project_id": "zarithlab4-63283",
+    "storage_bucket": "zarithlab4-63283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188807731125:android:75b3abd850820ca77aabfc",
+        "android_client_info": {
+          "package_name": "com.example.zarithlab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBgqUS0C-usjGZFLYbQyWx8bcmW30DyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
